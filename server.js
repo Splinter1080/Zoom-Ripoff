@@ -25,4 +25,4 @@ io.on('connection', socket => {
     })
   })
 })
-server.listen(6969)
+server.listen(3000)
